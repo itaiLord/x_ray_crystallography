@@ -1,2 +1,2 @@
 # x_ray_crystallography
-x ray crystallography 2d defractin patern to cnn to crystall classes
+x ray crystallography - 2d defraction pattern to cnn to crystal classes
